@@ -8,4 +8,4 @@ variable "key_name" {
   type = string
 }
 
-variable "public _key" {}
+variable "public_key" {}
